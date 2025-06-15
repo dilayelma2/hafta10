@@ -1,0 +1,3 @@
+Bir öğrencinin adı, soyadı ve numarasını tutar.Birden çok öğrenciyi liste halinde tutar ve ekleme/listeleme işlemleri yapar.
+Sınıf numarası, o sınıfa ait öğrenciler ve dersler listesi tutar. Birden fazla sınıfı saklar. Ders adını tutar.
+Birden çok dersi saklar.
